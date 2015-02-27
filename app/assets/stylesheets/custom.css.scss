@@ -1,0 +1,170 @@
+.navbar-inverse{
+  background: black;
+}
+
+
+
+ body.landing {
+  background-image: url("http://www.thisismetis.com/images/background_learn_more.jpg");
+}
+
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+  font-size: 20px;
+  line-height: 23px;
+  height: 64px;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.dropdown-menu li:hover .sub-menu {
+    visibility: visible;
+}
+
+.home{
+  font-family: "Calluna-Regular", Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+.home h1 {
+  font-size:100px;
+  font-weight: 300;
+  margin-bottom: 0.3em;
+  text-align: center;
+  color: white;
+}
+
+.home .head h2 {
+  text-align: center;
+}
+.home .succeed h2 {
+  text-align: left;
+}
+.home h2 {
+  font-size: 24px;
+  letter-spacing: 2px;
+  display: block;
+  color: #499ed9;
+  font-family: "Gotham SSm A", "Gotham SSm B", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  margin-bottom: 1.3em;
+  text-transform: uppercase;
+  -webkit-margin-before: 0.83em;
+  -webkit-margin-after: 0.83em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  font-weight: bold;
+}
+
+.home p {
+  font-size: 20px;
+  color: #fafafa;
+    text-align: center;
+}
+
+.center{
+  text-align: center;
+}
+.logo img{
+  width:10%;
+}
+
+.home .succeed p{
+  font-weight: 18px;
+  font-size: 18px;
+  color:white;
+  text-align: left;
+  
+}
+.home .succeed ul{
+  font-size: 18px;
+  color:white;
+  text-align: left;
+}
+
+.home .succeed strong{
+  color: #499ed9;
+}
+
+.wrapper img {
+-webkit-transition: all 0.2s ease-in-out;
+-moz-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;
+border-radius: 50%;
+display: block;
+height: 135px;
+margin: auto;
+width: 135px;
+}
+.wrapper img:hover {
+opacity: 0.5;
+}
+
+.home .succeed .wrapper h3{
+  font-size: 14px;
+  font-family: "Gotham SSm A", "Gotham SSm B", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 0.5em;
+  text-align: center;
+  color: #fafafa;
+  display: block;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  font-weight: bold;
+}
+.home .succeed .wrapper p{
+  font-family: "Calluna-Regular", Georgia, Cambria, "Times New Roman", Times, serif;
+  display: block;
+  margin: auto;
+  font-size:14px; 
+  text-align: center;
+}
+
+.contact-form .form-container {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2em;
+  box-sizing: border-box;
+  display: block;
+  color: #333;
+  font-family: "Gotham SSm A", "Gotham SSm B", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-size: 1em;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.5em;
+  background: #499ed9;
+}
+
+.contact-form .form-container h2{
+  color: #101010;
+  font-family: "Gotham SSm A", "Gotham SSm B", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-size: 22px;
+  letter-spacing: 2px;
+  margin: 1em 0;
+  text-transform: uppercase;
+}
+
+.modal p{
+  color: black;
+  text-align: left;
+}
+ .modal img{
+  text-align: left;
+   
+}
+.modal h1{
+  color: #333;
+  margin-bottom: .6em;
+  text-align: left;
+  text-transform: capitalize;
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 1.25;
+  margin: 0 0 0.6em 0;
+  text-rendering: optimizeLegibility;
+}
+
