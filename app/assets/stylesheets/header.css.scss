@@ -1,0 +1,54 @@
+.navbar-inverse .navbar-nav{
+  text-transform: uppercase;
+font-weight: bold;
+color: #bbb;
+ font-family: "Gotham SSm A", "Gotham SSm B", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-size: 18px;
+  
+}
+
+.navbar-inverse {
+background-color: #101010;
+border-bottom: 1px solid #333;
+font-family: "Gotham SSm A", "Gotham SSm B", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+
+
+-webkit-backface-visibility: hidden;
+}
+
+.dropdown-menu{
+  background: black;  
+ text-transform: uppercase;
+font-weight: bold;
+color: #bbb;
+  font-size: 18px;
+ 
+  
+}
+
+
+
+.sp{
+  
+display: inline;
+
+font-family: "Gotham SSm A", "Gotham SSm B", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+font-weight: 700;
+text-transform: uppercase;
+color: white;
+background-color: #489cda;
+font-size: 0.8em;
+margin: 5px;
+}
+
+.navbar-inverse .navbar-toggle {
+border-color: white;
+}
+
+.navbar-inverse .navbar-toggle .icon-bar {
+background-color: white;
+}
+
+body{
+  padding-top:  80px;
+}

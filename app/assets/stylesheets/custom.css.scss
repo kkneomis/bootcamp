@@ -10,17 +10,13 @@
 
 
 .navbar .navbar-nav {
-  display: inline-block;
+
   float: none;
   vertical-align: top;
   font-size: 20px;
-  line-height: 23px;
-  height: 64px;
 }
 
-.navbar .navbar-collapse {
-  text-align: center;
-}
+
 
 .dropdown-menu li:hover .sub-menu {
     visibility: visible;

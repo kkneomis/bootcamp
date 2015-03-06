@@ -1,0 +1,46 @@
+.alumni h2{
+  text-transform: uppercase;
+text-align: center;
+  color: #333;
+font-family: "Gotham SSm A", "Gotham SSm B", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  text-align:center;
+  font-size:50px;
+}
+
+.alumni h3{
+  text-transform: uppercase;
+text-align: center;
+  color: #499ed9;
+font-family: "Gotham SSm A", "Gotham SSm B", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+font-size: 22px;
+letter-spacing: 2px;
+margin-bottom: 1.3em;
+}
+
+.alumni .inner{
+  background: #f5f5fc;
+border-radius: 3px;
+padding: 1em;
+}
+
+.alumni .inner img{
+  transition: all 0.2s ease-in-out;
+border-radius: 50%;
+display: block;
+height: 135px;
+margin: auto;
+width: 135px;
+}
+
+.alumni .inner h3{
+  font-size: 14px;
+font-family: "Gotham SSm A", "Gotham SSm B", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+text-transform: uppercase;
+margin-bottom: 0.5em;
+text-align: center;
+  color: #333;
+}
+.alumni .inner p{
+  font-size: 14px;
+line-height: 1.5em;
+}
